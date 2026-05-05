@@ -1,5 +1,5 @@
 Data_codes – Resting-state functional connectivity correlates of emotional memory control
- under cognitive load in subclinical anxiety
+ under cognitive load in subclinical anxiety (https://doi.org/10.1016/j.neuropsychologia.2026.109469)
 
 Overview
 
