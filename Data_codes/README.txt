@@ -1,4 +1,4 @@
-code_files – Resting-state functional connectivity correlates of emotional memory control
+Data_codes – Resting-state functional connectivity correlates of emotional memory control
  under cognitive load in subclinical anxiety
 
 Overview
@@ -6,7 +6,7 @@ Overview
 The figures and the statistical results reported in the manuscript  are organized into separate subfolders within the main
 folder named:
 
-    code_files
+    Data_codes
 
 Each figure and the analyses associated with it has its own dedicated subfolder. These subfolders contain:
 
